@@ -1,0 +1,7 @@
+{
+  "name": "saco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
